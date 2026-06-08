@@ -23,8 +23,9 @@
 class Ayushi:
     def __init__(self):
         self.name        = "Ayushi"
+        self.username    = "Ayushi1245"
         self.role        = "AI/ML Developer & Freelancer"
-        self.location    = "India 🇮🇳"
+        self.location    = "Patna, Bihar, India 🇮🇳"
         self.email       = "ayushi7607053@gmail.com"
         self.open_to     = ["freelance AI/ML projects", "RAG pipelines", "CV solutions"]
 
@@ -50,7 +51,7 @@ print(me.expertise())
 <div align="center">
 
 | 🔍 RAG Applications | 👁️ Computer Vision | 🤖 AI/ML Solutions |
-|---|---|---|
+|:---:|:---:|:---:|
 | LLM-powered search & Q&A | Object Detection & Tracking | Model Training & Fine-tuning |
 | Document intelligence pipelines | Image Classification | End-to-end ML Deployment |
 | Vector DB integration | Semantic Segmentation | AI Freelance Projects |
@@ -103,11 +104,15 @@ print(me.expertise())
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushi1245&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi7607053&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi1245&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi7607053&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi1245&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi1245&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -132,8 +137,8 @@ print(me.expertise())
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushi7607053@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi1245)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi1245)
 
 </div>
 
@@ -146,8 +151,8 @@ print(me.expertise())
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushi7607053&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushi1245&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐️ *From [Ayushi](https://github.com/) — Let's turn ideas into intelligent systems!*
+⭐️ *From [Ayushi1245](https://github.com/Ayushi1245) — Let's turn ideas into intelligent systems!*
 
 </div>
